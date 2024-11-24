@@ -1,0 +1,2 @@
+Elapsed time to pull data: It took 0.0021157264709472656 to pull the dataPairplot Graph: It took 0.3612060546875 to create this graphPie Charts: It took 0.17030811309814453 seconds to run these graphsTo run cross tabulation and pie charts: Execution time: 0.15 secondsLogistic Regression: Average Training Time: 0.0337 secondsAverage Accuracy: 0.8750Random Forest: Average training time for Random Forest: 0.0334 secondsAverage accuracy for Random Forest: 0.9865Total time to run scripts: 
+Total execution time for the entire script: 41.07 seconds
